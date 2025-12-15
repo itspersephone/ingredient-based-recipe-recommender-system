@@ -1,0 +1,9 @@
+Primary Dataset: RAW_recipes.csv
+Source: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
+
+Additional Files:
+- RAW_interactions.csv
+- PP_recipes.csv
+- PP_users.csv
+
+Note: These files are too large for GitHub. Please download directly from Kaggle.
